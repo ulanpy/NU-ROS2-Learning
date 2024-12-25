@@ -1,0 +1,6 @@
+/.idea
+/faces_embeddings_miss1.npz
+/svm_model_miss1.pkl
+/label_encoder_miss1.pkl
+**/__pycache__/
+/models
