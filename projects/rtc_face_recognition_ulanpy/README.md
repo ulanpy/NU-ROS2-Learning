@@ -20,3 +20,9 @@ python main.py
 ```
 
 Any questions DM @kamikadze24 on telegram
+
+## Future Improvments 
+
+- Implement Local Vector DB to store embeddings instead of SVM classifier
+- Automate proccess of adding/removal of person
+- Use advanced Face Tracking system like DeepSort
