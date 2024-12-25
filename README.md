@@ -68,7 +68,8 @@ Operating Systems in robotics manage hardware resources, handle task scheduling,
 
 ## Contributing
 
-Contributions are always welcome!
+- [@ulanpy](https://github.com/ulanpy)
+- [@ghostfaced02](https://github.com/ghostfaced02)
 
 
 
