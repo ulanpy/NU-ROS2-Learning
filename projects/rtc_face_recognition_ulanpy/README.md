@@ -2,7 +2,8 @@
 
 This repo could be used for RTC systems like WebRTC or RTCP. Due to the heavy load of face recognition models, the project was optimized in computational complexity providing good performance in embedded systems devices like Jetson Orin from Nvidia 
 
-![face_recognition]([https://sun9-16.userapi.com/s/v1/ig2/g-FLtkQjGr8CUdHXxB6KbTj6cEAdgD23PbXsUrvO5yjk8E9wT1H7UE53AxFXaMgmgsP4sd8wyfA00ymkB563LMUD.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,960x1280&from=bu&u=8kcZOkhgQwK7o1q8d5iZ9mUqlNxnDn5kpsoYOUZM4mk&cs=303x404](https://sun9-46.userapi.com/impg/sFoNRMtR4XCNLZjpYoJrE1DIrenmsu3Of4K-SQ/OenUAZLI1wU.jpg?size=640x516&quality=95&sign=dd94159bcdb5a3994d77d19178dcfee2&type=album))
+![Demo](https://sun9-46.userapi.com/impg/sFoNRMtR4XCNLZjpYoJrE1DIrenmsu3Of4K-SQ/OenUAZLI1wU.jpg?size=640x516&quality=95&sign=dd94159bcdb5a3994d77d19178dcfee2&type=album)
+
 ## Installation
 
 - Create your custom dataset consisting of .jpg images in dataset/person1 and so on dirs. Remove 1.txt files from dir
